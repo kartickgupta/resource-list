@@ -1,0 +1,27 @@
+Array
+- Vivekanand Khyade :: https://www.youtube.com/playlist?list=PLeIMaH7i8JDjd21ZF6jlRKtChLttls7BG
+- https://www.geeksforgeeks.org/array-data-structure/
+- (Programming Knowledge) Questions on Arrays (56 Videos):: https://www.youtube.com/playlist?list=PLUg9hRlm7gxR7e9OgtrsqgN7XEyNTZRPK
+
+Heaps
+- TechDose :: https://www.youtube.com/playlist?list=PLEJXowNB4kPyP2PdMhOUlTY6GrRIITx28
+- Aditya Verma :: https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9
+
+Overall
+- CodewithHarry :: https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi
+- Anuj Bhaiya :: https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p
+
+STL
+- https://www.studytonight.com/cpp/stl/stl-container-map
+
+
+Youtube Channels
+- Programming Tutorials :: https://www.youtube.com/c/ProgrammingTutorials1M/playlists
+- Aditya Verma :: https://www.youtube.com/c/AdityaVermaTheProgrammingLord/playlists
+- Tech Dose :: https://www.youtube.com/channel/UCnxhETjJtTPs37hOZ7vQ88g
+- Tushar Roy ::
+- Kartik Arora ::
+- Byte by Byte :: https://www.youtube.com/c/ByteByByte
+
+
+CS NOTES :: http://www.cs.ecu.edu/karl/3300/spr16/Notes/index.html

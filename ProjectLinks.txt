@@ -1,0 +1,6 @@
+IIT Bombay English-Hindi Corpus : https://www.cfilt.iitb.ac.in/~parallelcorp/iitb_en_hi_parallel/
+A Catalog of resources for Indian language NLP : https://github.com/AI4Bharat/indicnlp_catalog
+Word2Vec-Hindi : https://github.com/nishitjain97/Word2Vec-Hindi
+
+“A Passage to India”: Pre-trained Word Embeddings for Indian Languages : https://www.aclweb.org/anthology/2020.sltu-1.49.pdf
+Word Embeddings for Code-Mixed Language Processing : https://www.aclweb.org/anthology/D18-1344/
